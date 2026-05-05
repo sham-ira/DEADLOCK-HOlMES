@@ -54,8 +54,7 @@ deadlock-holmes/
 |-- deadlock_holmes.cpp       Single-file simulation source
 |-- README.md                 User-facing project overview
 |-- DOCUMENTATION.md          This file — developer reference
-|-- cpu_history.csv           Generated on exit (CPU log per tick)
-|-- memory_history.csv        Generated on exit (memory log per tick)
+
 ```
 
 All output files are written to the same directory as the executable.
