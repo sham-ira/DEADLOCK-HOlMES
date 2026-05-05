@@ -21,9 +21,10 @@ A console-based C++ simulation that brings three classic operating system failur
 
 ## Demo Video
 
-[![Watch the simulation demo]](https://your-video-link-here)
+[![Watch the simulation demo]
+https://youtu.be/uKCLy6MiksM?si=PJD0MLq7q9wXXfIo
 
-Replace the link above with your YouTube, Google Drive, or any hosted video URL.
+
 
 
 ---
