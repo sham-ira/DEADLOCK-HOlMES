@@ -200,15 +200,6 @@ These can be opened in Excel or any spreadsheet tool to chart the simulation dat
 | Priority aging | Act 3 — wait counter triggers incremental priority boost |
 | Self-healing | Acts 1 and 2 — system repairs itself without restart |
 
----
-
-## Project Structure
-
-deadlock-holmes/
-|
-|-- deadlock_holmes.cpp     Main simulation source file
-|-- README.md               This file
-
 
 ---
 
